@@ -17,7 +17,7 @@
 
 ### 🇷🇺 Что делаю
 
-- **Сайты-воронки.** Сайт, форма, бот и заявки приходят сразу в Telegram. Дизайн, анимации, SEO, выкладка.
+- **Сайты-воронки.** Сайт, квиз или форма, бот — заявки сразу в Telegram или amoCRM. Дизайн, анимации, SEO, выкладка.
 - **Telegram-боты.** Лид-магниты с проверкой подписки, уведомления, мониторинг рынков, AI-агенты.
 - **Автоматизация и данные.** Парсинг и работа с API, сбор и анализ данных, отчёты.
 - **AI-контент.** Фото- и видеосъёмки для бренда, сгенерированные ИИ; монтаж роликов кодом.
@@ -35,6 +35,7 @@
 
 | | Проект | Что это | Стек |
 |---|---|---|---|
+| 🎓 | [**unigate**](https://github.com/lightisagod/unigate-showcase) | Посадочные под рекламу для агентства обучения за рубежом: квиз в 5 касаний, заявки в amoCRM с полями и UTM, пиксели Meta + Conversions API | Next.js · React · TypeScript · amoCRM API · Meta CAPI · GTM · Vercel |
 | 🌾 | [**grechka**](https://github.com/lightisagod/grechka-showcase) | Сайт-воронка SMM-агентства: 32 кейса, блог, бот с лид-магнитом, заявки в Telegram | Next.js · React · TypeScript · GSAP · Telegram Bot API · Vercel |
 | 🖤 | [**hellofromtung**](https://github.com/lightisagod/hellofromtung-showcase) | Магазин одежды выдуманного бренда: AI-фотосессии и видео, корзина, заказы, аккаунт | React · Three.js · Cloudflare Workers · D1 · AI-генерация |
 | 🎁 | [**gift sniper**](https://github.com/lightisagod/gift-sniper-showcase) | Мониторинг маркетплейса Telegram-подарков: находит лоты ниже рынка и шлёт алерт | Node.js · Python · Telethon · REST API |
@@ -44,6 +45,6 @@
 
 ### Стек · Stack
 
-`Next.js` `React` `TypeScript` `Tailwind` `Three.js` `Node.js` `Python` `GSAP` `Telegram Bot API` `Telethon` `Cloudflare Workers` `Vercel` `Playwright` `ffmpeg` `LLM / AI-агенты`
+`Next.js` `React` `TypeScript` `Tailwind` `Three.js` `Node.js` `Python` `GSAP` `Telegram Bot API` `amoCRM API` `Telethon` `Cloudflare Workers` `Vercel` `Playwright` `ffmpeg` `LLM / AI-агенты`
 
 <p align="center"><sub>空虚 — великая пустота</sub></p>
